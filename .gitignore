@@ -1,6 +1,7 @@
 # Xcode
 DerivedData/
 build/
+.cursor/rules/
 *.xcuserstate
 *.xcuserdata/
 *.xcuserdatad/
